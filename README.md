@@ -18,19 +18,19 @@ A continuación, se presentan algunos ejemplos de los gráficos e insights obten
 
 ### Ingresos Totales por Tienda
 
-![Gráfico de Ingresos](https://i.imgur.com/eZq3Z8k.png)
+![Gráfico de Ingresos](<img width="846" height="545" alt="output" src="https://github.com/user-attachments/assets/b4a5cf85-9a47-4347-9c4a-983669b95508" />)
 
 Este gráfico de barras muestra los ingresos totales de cada tienda. Se puede observar que la Tienda 2 tiene los ingresos más bajos en comparación con las otras tres tiendas.
 
 ### Ventas por Categoría
 
-![Gráfico de Ventas por Categoría](https://i.imgur.com/Y3A4w9C.png)
+![Gráfico de Ventas por Categoría](<img width="1366" height="1196" alt="2" src="https://github.com/user-attachments/assets/060c493a-ccd2-454f-a7e0-680e0026d356" />)
 
 Estos gráficos circulares muestran la distribución de las ventas por categoría de productos para cada tienda. En general, las categorías más vendidas son "Electrónicos", "Muebles" y "Deportes y diversión".
 
 ### Calificación Promedio por Tienda
 
-![Gráfico de Calificación Promedio](https://i.imgur.com/p7g7Y8H.png)
+![Gráfico de Calificación Promedio](<img width="855" height="546" alt="3" src="https://github.com/user-attachments/assets/d80312da-68ff-4c2a-95ca-50c534e54f7f" />)
 
 Este gráfico de barras muestra la calificación promedio de los clientes para cada tienda. La Tienda 2 tiene la calificación promedio más baja, lo que indica una menor satisfacción del cliente.
 
